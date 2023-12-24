@@ -189,7 +189,8 @@ class HomePage extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(height: 20),
-                  //the list view begins/////////////////////////////////////////////////////
+                  ///////////////////////////////////////////////////////
+                  //the list view begins here...
 
                   InkWell(
                     onTap: () {
