@@ -254,6 +254,9 @@ class _NewCowPageState extends State<NewCowPage> {
           ],
         ),
       ),
+      
+      //AppBar displays the id of the newly generated cow page
+      
       appBar: AppBar(
         backgroundColor: const Color.fromRGBO(157, 208, 104, 1),
         shadowColor: const Color.fromRGBO(128, 45, 83, 1),
