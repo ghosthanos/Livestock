@@ -1,6 +1,6 @@
 # livestock
 
-A new Flutter project.
+This is a Livestock Management App
 
 ## Getting Started
 
